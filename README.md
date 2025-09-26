@@ -28,10 +28,10 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 ---
-![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/terraform_plan.png)
-![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/terraform_apply.png)
-![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/install_vm.png)
-![Скриншот](https://github.com/valdemar-2502/Yandex-Cloud-Homework/blob/main/demo_cloud.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/gitlab.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/runner-01.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/add-ci.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/add-ci2.png)
 
 ### Задание 2
 
