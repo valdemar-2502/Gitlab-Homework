@@ -44,6 +44,27 @@
    
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
  * скриншоты с успешно собранными сборками.
+```stages:
+  - test
+  - build
+
+job04_test:
+  stage: test
+  image: golang:1.17
+  script:
+   - go test .
+  tags:
+   - netology
+
+
+job05_build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+  tags:
+   - netology
+
  
  
 ---
