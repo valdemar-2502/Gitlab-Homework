@@ -28,10 +28,9 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 ---
-![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/gitlab.png)
-![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/runner-01.png)
-![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/add-ci.png)
-![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/add-ci2.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/my_gitlab.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/runner.png)
+![Скриншот](https://github.com/valdemar-2502/Gitlab-Homework/blob/main/Pipeline.png)
 
 ### Задание 2
 
